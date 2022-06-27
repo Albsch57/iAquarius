@@ -1,6 +1,6 @@
 //
 //  iPetApp.swift
-//  iPet
+//  iPet aqua
 //
 //  Created by Alona on 24/06/22.
 //
